@@ -56,3 +56,35 @@ The Traveler Information App is an Android application designed to manage and di
 1. Clone the repository
    ```bash
    git clone https://github.com/pmoschos/XMLDemoProject03.git
+
+## 🚀 Getting Started
+
+1. **Open the project in Android Studio**
+2. **Build and run the project on an emulator or real device**
+
+## 🔍 Usage
+
+The main screen displays a list of travelers. You can:
+
+- **Add a new traveler** by filling out the form and clicking the "Add" button.
+- **View detailed information** of a traveler by clicking on a list item.
+
+## 🤝 Contributing
+
+1. **Fork the project**
+2. **Create your feature branch** (`git checkout -b feature/AmazingFeature`)
+3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
+4. **Push to the branch** (`git push origin feature/AmazingFeature`)
+5. **Open a pull request**
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 📞 Contact
+
+Your Name - [pmoschos@aueb.gr](mailto:pmoschos@aueb.gr)
+
+<p align="center">
+  Made with ❤️ by [Your Name](https://github.com/pmoschos)
+</p>
