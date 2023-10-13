@@ -83,8 +83,8 @@ Distributed under the .......
 
 ## 📞 Contact
 
-Your Name - [pmoschos@aueb.gr](mailto:pmoschos@aueb.gr)
+Panagiotis Moschos - [pmoschos@aueb.gr](mailto:pmoschos@aueb.gr)
 
 <p align="center">
-  Made with ❤️ by [Your Name](https://github.com/pmoschos)
+  Made with ❤️ by [Panagiotis Moschos](https://github.com/pmoschos)
 </p>
