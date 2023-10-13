@@ -79,7 +79,7 @@ The main screen displays a list of travelers. You can:
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the .......
 
 ## 📞 Contact
 
